@@ -16,7 +16,7 @@ This project analyzes retail sales data using Python for data cleaning and trans
 - Interactive slicers for filtering
 
 ## Power BI Dashboard
-🔗 View Dashboard: <PASTE YOUR POWER BI LINK HERE>
+🔗 View Dashboard: <https://app.powerbi.com/links/S0D9CN6XPb?ctid=0714db3d-882f-41c4-8579-3146af5c2abb&pbi_source=linkShare>
 
 ## Author
 Dhanush S
